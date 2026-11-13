@@ -1,9 +1,9 @@
 # Merhaba, ben Berat 👋
 
-🎓 Bilişim Teknolojileri öğrencisiyim, Ağ Sistemleri ve Anahtarlama dalında okuyorum.
-🌐 İlgi alanlarım: bilgisayar ağları, Linux, açık kaynak
-🌱 Şu an öğrendiklerim: Python, Git ve GitHub
-🤝 Açık kaynak projelere katkı vermeye başlıyorum
+- 🎓 Bilişim Teknolojileri öğrencisiyim, Ağ Sistemleri ve Anahtarlama dalında okuyorum.
+- 🌐 İlgi alanlarım: bilgisayar ağları, Linux, açık kaynak
+- 🌱 Şu an öğrendiklerim: Python, Git ve GitHub
+- 🤝 Açık kaynak projelere katkı vermeye başlıyorum
 
 ---
 
